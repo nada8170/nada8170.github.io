@@ -1,0 +1,37 @@
+# config.yml
+
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+media_folder: 'assets/img'
+collections:
+  - name: 'product'
+    label: 'product'
+    folder: '_portfolio/'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title AR', name: 'title_ar', widget: 'string' }
+      - { label: 'Subtitle', name: 'Subtitle', widget: 'string' }
+      - { label: 'Subtitle AR', name: 'Subtitle_ar', widget: 'string' }
+      - { label: 'Alt', name: 'alt', widget: 'string' }
+      - { label: 'Image', name: 'thumbnail', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'string' }
+      - { label: 'Body AR', name: 'body_ar', widget: 'string' }
+
+  - name: "config"
+    label: "Config"
+    editor:
+      preview: false
+    files:
+      - label: "Navigation"
+        name: "navigation"
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Navigation Items"
+            name: "items"
+            widget: "list"
+            fields:
+              - { label: title, name: title, widget: string }
+              - { label: title_ar, name: title_ar, widget: string }
+              - { label: section, name: section, widget: string }
