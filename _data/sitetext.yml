@@ -1,14 +1,14 @@
 header:
-    title: Welcome for you
+    title: 
     title_ar: اهلا وسهلا بك
-    text: TechTouch is an IT & Cloud Managed Services Provider that designs, implements and supports solutions for businesses
+    text: 
     text_ar: تيك تاتش هو مزود خدمات مُدارة من تكنولوجيا المعلومات والخدمات السحابية يقوم بتصميم وتنفيذ ودعم الحلول للشركات
     button: Tell Me More
     button_ar: خدماتنا
     buttonlink: "#services"
 
 services:
-    title: "world"
+    title: "About Us"
     title_ar: "الخدمات"
     text: "our services"
     text_ar: "خدماتنا"
@@ -32,7 +32,7 @@ services:
 
 
 portfolio:
-    title: "Products"
+    title: "The World"
     title_ar: 'المشاريع'
     text: "our products."
     text_ar: 'مشاريعنا'
