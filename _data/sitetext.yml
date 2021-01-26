@@ -13,22 +13,7 @@ services:
     text: 
     text_ar: "خدماتنا"
     section: services
-    list:
-      - title: "Web Development"
-        title_ar: تطوير المواقع
-        desc: "our web developer team are experiences in develop deferante types of sites and systems from cms sites to ERB syatems"
-        desc_ar: فريق مطوري الويب لدينا هم خبرات في تطوير أنواع مختلفة من المواقع والأنظمة من مواقع cms إلى أنظمة ERP
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Graphic Design"
-        title_ar: تطوير المواقع
-        desc: "Design is the center of everything we do. Driven by journeys , our team create beautiful products that delight."
-        desc_ar: فريق مطوري الويب لدينا هم خبرات في تطوير أنواع مختلفة من المواقع والأنظمة من مواقع cms إلى أنظمة ERP
-        icon: fas fa-laptop
-      - title: "Mobile apps"
-        title_ar: تطوير المواقع
-        desc: "Our mobile team brigs functional , intuitive experiences life across IOs and Android"
-        desc_ar: فريق مطوري الويب لدينا هم خبرات في تطوير أنواع مختلفة من المواقع والأنظمة من مواقع cms إلى أنظمة ERP
-        icon: fab fa-markdown
+    
 
 
 portfolio:
