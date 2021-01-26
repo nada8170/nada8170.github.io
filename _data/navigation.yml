@@ -7,10 +7,12 @@ nav:
     title_ar: "المنتجات"
     section: portfolio
 
-  - #title: "Team"
-    #title_ar: "الفريق"
-    #section: team
 
   - title: "Contact US "
     title_ar: "تواصل معنا"
     section: contact
+
+
+    - #title: "Team"
+    #title_ar: "الفريق"
+    #section: team

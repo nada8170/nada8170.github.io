@@ -36,7 +36,7 @@ portfolio:
     title_ar: 'المشاريع'
     text: "our products."
     text_ar: 'مشاريعنا'
-    section: portfolio
+    section: _portfolio
     closebutton: "Close Project"
     closebutton_ar: 'اغلاق'
 
