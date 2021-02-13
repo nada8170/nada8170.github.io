@@ -34,9 +34,9 @@ services:
 portfolio:
     title: "The World"
     title_ar: 'المشاريع'
-    text: "our products."
+    text: 
     text_ar: 'مشاريعنا'
-    section: _portfolio
+    section: portfolio
     closebutton: "Close Project"
     closebutton_ar: 'اغلاق'
 
@@ -46,8 +46,8 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Mohameed Ali"
-        role: "Web Developer"
+      - name: Baris"
+        role: "bla bal"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com

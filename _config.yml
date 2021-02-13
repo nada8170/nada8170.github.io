@@ -16,10 +16,10 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : TechTouch
-email      : ali.baobaid.me@gmail.com #this is also the email contact forms will go to
+title      : AROUND THE WORLD
+email      : nada.farea28@gmail.com #this is also the email contact forms will go to
 description: "TechTouch is an IT & Cloud Managed Services Provider that designs, implements and supports solutions for businesses"
-author     : Ali Baobaid
+author     : d
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
