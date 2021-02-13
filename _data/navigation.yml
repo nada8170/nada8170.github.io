@@ -13,6 +13,6 @@ nav:
     section: contact
 
 
-    - #title: "Team"
-    #title_ar: "الفريق"
-    #section: team
+    # - #title: "Team"
+    # #title_ar: "الفريق"
+    # #section: team
