@@ -96,10 +96,10 @@ footer:
       - url: https://instagram.com
         icon: "fab fa-instagram"
 
-# about:
-#     title: "About Us"
-#     text: "our story"
-#     section: about
+ about:
+     title: "About Us"
+     text: "our story"
+     section: about
 
 clients:
     section: clients
